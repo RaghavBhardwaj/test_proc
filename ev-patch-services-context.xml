@@ -1,6 +1,6 @@
-
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE beans PUBLIC '-//SPRING//DTD BEAN//EN' 'http://www.springframework.org/dtd/spring-beans.dtd'>
+<beans>
     <bean id="patch.workflowNotification" class="org.alfresco.repo.admin.patch.impl.GenericBootstrapPatch" parent="basePatch" >
         <property name="id"><value>ev.patch</value></property>
         <property name="description"><value>ev patch for workflow problem</value></property>
