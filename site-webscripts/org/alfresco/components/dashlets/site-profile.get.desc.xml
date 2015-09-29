@@ -1,6 +1,7 @@
 <webscript>
 <!--
-Elements replaced by null by Raghav
+Elements replaced by null by Raghav Bhardwaj 29/09/15
+
 shortname>Site Profile</shortname>
    <description>Site profile component used in the collaboration site</description>
    <family>site-dashlet</family>
